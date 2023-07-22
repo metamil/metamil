@@ -17,11 +17,11 @@
 
 - 👨‍💻 All of my projects are available at [https://waterloggedlefthypothesis.20bai4050-tamil.repl.co/](https://waterloggedlefthypothesis.20bai4050-tamil.repl.co/)
 
-- 💬 Ask me about **MERN Stack, Machine Learning, Python, Java, C++**
+- 💬 Ask me about **MERN Stack, DSA, Machine Learning, Python, Java, C++**
 
 - 📫 How to reach me **tamilselvanm2020ai@gmail.com**
   
-- Connect with me in <p align = "left"><a href="https://www.linkedin.com/in/tamil-selvan-m-210384200" target="blank">**LinkedIn**</a></p>
+- Connect with me in <a href="https://www.linkedin.com/in/tamil-selvan-m-210384200" target="blank">**LinkedIn**</a>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PNrsge_iPRBmnu2UxrYD1taMm6xubGLI/view](https://drive.google.com/file/d/1PNrsge_iPRBmnu2UxrYD1taMm6xubGLI/view)
 
