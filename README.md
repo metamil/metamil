@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Omicron Prediction**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Real World Data Science projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 🤝 I’m looking for help with **Machine learning based projects**
 
 - 👨‍💻 All of my projects are available at [https://waterloggedlefthypothesis.20bai4050-tamil.repl.co/](https://waterloggedlefthypothesis.20bai4050-tamil.repl.co/)
 
-- 💬 Ask me about **Python, C, R, Data Analysis, Data Visualization, Exploratory Data Analysis and Machine Learning.**
+- 💬 Ask me about **MERN Stack, Machine Learning, Python, Java, C++**
 
 - 📫 How to reach me **tamilselvanm2020ai@gmail.com**
 
