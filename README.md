@@ -20,7 +20,7 @@
 - 💬 Ask me about **MERN Stack, Machine Learning, Python, Java, C++**
 
 - 📫 How to reach me **tamilselvanm2020ai@gmail.com**
-- Connect with me in <p><a href="https://www.linkedin.com/in/tamil-selvan-m-210384200" target="blank">**LinkedIn**</a></p>
+- Connect with me in <p align = "left"><a href="https://www.linkedin.com/in/tamil-selvan-m-210384200" target="blank">**LinkedIn**</a></p>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PNrsge_iPRBmnu2UxrYD1taMm6xubGLI/view](https://drive.google.com/file/d/1PNrsge_iPRBmnu2UxrYD1taMm6xubGLI/view)
 
